@@ -3,6 +3,7 @@
 - Apache NetBeans IDE 25
 - Apache Tomcat
 - JDK
+- File jakarta, mysql connector
 ## Chương 1. Cơ bản lập trình web
 ### Lịch sử phát triển ứng dụng web
 #### Khái niệm về website
