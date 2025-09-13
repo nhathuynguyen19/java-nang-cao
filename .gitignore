@@ -1,0 +1,23 @@
+# Build output
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# NetBeans project files (user-specific)
+nbproject/private/
+
+# Other common junk
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.ctxt
+
+# IDE specific
+*.iml
+.idea/
+.vscode/
+.vs/
