@@ -1,9 +1,9 @@
 # Build output
-/build/
-/dist/
-/nbbuild/
-/nbdist/
-/.nb-gradle/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
 
 # NetBeans project files (user-specific)
 nbproject/private/
