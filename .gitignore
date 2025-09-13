@@ -6,7 +6,7 @@ nbdist/
 .nb-gradle/
 
 # NetBeans project files (user-specific)
-private/
+nbproject/private/
 
 # Other common junk
 *.class
